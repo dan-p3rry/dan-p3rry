@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dan-p3rry
-- 👀 I’m interested in building my own finance app, like the old MS Money 
-- 🌱 I’m currently learning wxPython
+- 👀 I spend my free time designing useful and cool items with OpenSCAD.
 - 📫 How to reach me dan.p3rry@gmail.com
 
 <!---
